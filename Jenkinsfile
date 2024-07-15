@@ -33,7 +33,7 @@ def git_email           = ""
 def git_username        = ""
 
 //Log Function 
-def log_node            = "slave2"
+def log_node            = ""
 def log_location        = ""
 
 //Variable Initialization
